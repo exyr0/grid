@@ -1,7 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: 'Tilt Neon', cursive;
+    font-family: 'Gloock', serif;
 }
 .grid-principal {
     display: grid;
@@ -30,6 +30,7 @@ span {
 .main {
     display: grid;
     padding-top: 10px;
+    padding-bottom: 10px;
     gap: 10px;
     grid-area: main;
     grid-template-columns: 1fr 1fr 1fr;
@@ -64,7 +65,7 @@ span {
     text-decoration: none;
 }
 img {
-    width: 35%;
+    width: 30%;
     padding-left: 9rem;
 }
 button {
